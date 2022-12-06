@@ -1,4 +1,4 @@
-#-- MT adapted based on Mijian Xu's Python code
+#-- Code from Mijian Xu's Python code, with MT edits
 # /*
 #  * This code was taken from Mijian Xu's SeisPy
 #  * SeisPy hk.py
@@ -197,7 +197,6 @@ for j in os.listdir(rootdir):
         _fig0(h, k, Normed_stack, besth, bestk)
 
         # save figure
-        # figname = str(j)+".hk.pdf"
-        figname = "T1.hk.pdf"
+        figname = str(j)+".hk.pdf"
         plt.savefig(os.path.join('/Users/madeleinetan/Research/TA_ARRAYS/figures_112022/hk/', figname))
         plt.close()
