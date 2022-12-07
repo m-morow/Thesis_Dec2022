@@ -1,6 +1,6 @@
-#-- Code from Mijian Xu's Python code, with MT edits
+#-- Code from Mijian Xu's Python code, with MT edits [_fig0, main code]
 # /*
-#  * This code was taken from Mijian Xu's SeisPy
+#  * defined functions were taken from Mijian Xu's SeisPy
 #  * SeisPy hk.py
 #  *
 #  * 2021
