@@ -17,7 +17,7 @@
         SeisPy by Mijian Xu
         
 ##### Figures:
-        Record section by station ./figures/rf
-        Hk ./figures/hk
+        Record section by station ./rf_figures
+        Hk ./figures
         
         
