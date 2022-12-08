@@ -14,7 +14,7 @@
                 returns: contourf figure of H (x axis) and kappa (y axis) and optimum H, k values
 
 ##### Reference code:
-        SeisPy by Mijian Xu
+        SeisPy by Mijian Xu: https://github.com/xumi1993/seispy
         
 ##### Figures:
         Record section by station ./rf_figures
