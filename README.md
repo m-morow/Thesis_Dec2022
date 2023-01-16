@@ -19,5 +19,6 @@
 ##### Figures:
         Record section by station ./rf_figures
         Hk ./figures
+        diagrams ./diagrams
         
         
