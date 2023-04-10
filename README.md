@@ -12,9 +12,6 @@
         hk.py
                 calculates H and kappa values of receiver function stream
                 returns: contourf figure of H (x axis) and kappa (y axis) and optimum H, k values
-        stacking_by_slowness:
-                stack traces at each station by slowness
-                returns: figure with 5 stacks; all slowness values in s/km, [0.04-0.05), [0.05-0.06), [0.06-0.07), [0.07-0.08]
         azeq_map:
                 plot events on azimuthal equidistant map projection
                 returns: figure with event locations
