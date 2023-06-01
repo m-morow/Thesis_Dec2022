@@ -1,6 +1,8 @@
 ## Madeleine Tan 
 #### mmtan@umich.edu
 #### Undergraduate Thesis Dec. 2022
+
+# [May 2023] This repository contains old code.
 --------------------------------------- 
 ##### Code:
         slant_stack.py
